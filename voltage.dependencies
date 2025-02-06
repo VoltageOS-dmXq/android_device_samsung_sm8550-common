@@ -1,0 +1,38 @@
+[
+  {,
+  {
+        "repository": "guckesh/android_device_samsung_dm1q",
+    	"target_path": "device/samsung/dm1q"
+	    "branch": "15-qpr1"
+  },
+  {
+        "repository": "guckesh/proprietary_vendor_samsung_dm1q",
+    	"target_path": "vendor/samsung/dm1q"
+	    "branch": "15-qpr1"
+  },
+  {
+        "repository": "guckesh/proprietary_vendor_samsung_sm8550-common",
+    	"target_path": "vendor/samsung/sm8550-common"
+	    "branch": "15-qpr1"
+  },
+  {
+        "repository": "dmXq-development/android_hardware_samsung",
+    	"target_path": "hardware/samsung"
+	    "branch": "15-qpr1"
+  },
+  {
+    	"repository": "dmXq-development/android_kernel_samsung_sm8550",
+    	"target_path": "kernel/samsung/sm8550"
+	    "branch": "android15-stable"
+  },
+  {
+        "repository": "dmXq-development/android_kernel_samsung_sm8550-modules",
+    	"target_path": "kernel/samsung/sm8550-modules"
+	    "branch": "android15-stable"
+  },
+  {
+        "repository": "dmXq-development/android_kernel_samsung_sm8550-devicetrees",
+    	"target_path": "kernel/samsung/sm8550-devicetrees"
+	    "branch": "android15-stable"
+  }
+]
