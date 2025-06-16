@@ -8,17 +8,17 @@
   {
         "repository": "VoltageOS-dmXq/proprietary_vendor_samsung_dm1q",
     	"target_path": "vendor/samsung/dm1q"
-	    "branch": "lineage-22.2"
+	    "branch": "15-qpr2"
   },
   {
         "repository": "VoltageOS-dmXq/proprietary_vendor_samsung_sm8550-common",
     	"target_path": "vendor/samsung/sm8550-common"
-	    "branch": "lineage-22.2"
+	    "branch": "15-qpr2"
   },
   {
         "repository": "VoltageOS-dmXq/android_hardware_samsung",
     	"target_path": "hardware/samsung"
-	    "branch": "lineage-22.1"
+	    "branch": "15-qpr2"
   },
   {
     	"repository": "VoltageOS-dmXq/android_kernel_samsung_sm8550",
